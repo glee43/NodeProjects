@@ -1,0 +1,9 @@
+[
+    { "title": "a", "body": "hello" },
+    { "title": "hello", "body": "what" },
+    { "title": "george is a gentrifier", "body": "george hates the poor" },
+    {
+        "title": "george is a super gentrifier",
+        "body": "george really hates the poor"
+    }
+]
